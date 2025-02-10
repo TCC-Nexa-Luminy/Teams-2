@@ -4,11 +4,12 @@
 
 ## 👥 Integrantes do Grupo
 
-- 👤 Thiago Ribeiro
-- 👤 Shandel Villasante
-- 👤 Daniel Mattos 
-- 👤 Pedro Medeiros 
-- 👤 Eduardo Fernandes 
+- 👤 [Daniel Mattos](https://github.com/DanielHMF)
+- 👤 [Eduardo Fernandes](https://github.com/edudausp)
+- 👤 [Thiago Ribeiro](https://github.com/thiagoConsta)
+- 👤 [Murilo Guimarães](https://github.com/murimbo)
+- 👤 [Pedro Medeiros](https://github.com/phmsantostts)
+- 👤 [Shandel Villasante](https://github.com/Shandel-dev)
 
 ## 📋 Requisitos
 
