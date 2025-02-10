@@ -4,7 +4,7 @@
 
 ## 👥 Integrantes do Grupo
 
-- 👤 Thiago Ribeiro - 
+- 👤 Thiago Ribeiro - @thiagoConsta
 - 👤 Shandel Villasante - 
 - 👤 Daniel Mattos - 
 - 👤 Pedro Medeiros - 
