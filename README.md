@@ -18,16 +18,16 @@
 ## 🛠️ Instalação
 
 1. 📥 Instale o GitHub Desktop
-2. 📥 Faça seu login.
-3. 📥 Clone o repositório para o GitHub Desktop.
+2. 📥 No GitHub Desktop, Vá em Files -> Clone repository e escolha o repositório que deseja clonar
+3. 📥 Selecione o local de destino do projeto em Local path e clique em Clone
 
-## 🚀 Uso
+## 🚀 Uso (Sessão ainda sendo digitada)
 
 1. 💻 Como iniciar o projeto.
 2. 📈 Exemplos de como usar o projeto.
 3. 📝 Qualquer outra informação relevante.
 
-## 🤝 Contribuição
+## 🤝 Contribuição (Sessão ainda sendo digitada)
 
 1. 🛠️ Como contribuir com o projeto.
 2. 📜 Regras para pull requests.
@@ -35,4 +35,4 @@
 
 ## 📄 Licença
 
-🔒 Informações sobre a licença do projeto.
+🔒 Este projeto é licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
