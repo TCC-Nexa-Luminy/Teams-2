@@ -17,7 +17,7 @@
 - 🔧 Canva
 
 ## 🛠️ Instalação
-1. 📥 Instale o GitHub Desktop
+1. 📥 Instale o [GitHub Desktop](https://desktop.github.com/download/) e faça seu login
 2. 📥 No GitHub Desktop, Vá em "Files" -> "Clone repository" e escolha o repositório que deseja clonar
 3. 📥 Selecione o local de destino do projeto em Local path e clique em Clone
 
