@@ -7,7 +7,7 @@
 - 👤 [Daniel Mattos](https://github.com/DanielHMF)
 - 👤 [Eduardo Fernandes](https://github.com/edudausp)
 - 👤 [Thiago Ribeiro](https://github.com/thiagoConsta)
-- 👤 [Murilo Guimarães](https://github.com/murimbo)
+- 👤 [Murilo Magalhães](https://github.com/murimbo)
 - 👤 [Pedro Medeiros](https://github.com/phmsantostts)
 - 👤 [Shandel Villasante](https://github.com/Shandel-dev)
 
