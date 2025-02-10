@@ -1,0 +1,18 @@
+:root{
+    --cor-primaria: #6c5fe6;
+    --cor-light:  #f0f0f0;
+    --cor-fundo: #0a0320;
+}
+
+/* Estilos gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Agdasima', sans-serif;
+    background-color: var(--cor-light);
+    color: #333;
+}
