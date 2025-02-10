@@ -18,7 +18,7 @@
 
 ## 🛠️ Instalação
 1. 📥 Instale o GitHub Desktop
-2. 📥 No GitHub Desktop, Vá em Files -> Clone repository e escolha o repositório que deseja clonar
+2. 📥 No GitHub Desktop, Vá em "Files" -> "Clone repository" e escolha o repositório que deseja clonar
 3. 📥 Selecione o local de destino do projeto em Local path e clique em Clone
 
 ## 🚀 Uso (Sessão ainda sendo digitada)
